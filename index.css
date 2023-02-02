@@ -19,12 +19,12 @@ body {
   margin-inline: auto;
   padding-inline: 1rem;
   border-radius: 12px;
-  background: #fc466b; /* fallback for old browsers */
+  background: #fc466b; 
   background: linear-gradient(
     to right,
     #3f5efb,
     #fc466b
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  );
 }
 
 #survey-form div {
